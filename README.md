@@ -1,5 +1,17 @@
 # HW 0: Intro to Javascript and WebGL
 
+## Name: Zhen Ren
+[Live Demo](https://zhiqing-r.github.io/hw00-intro-base/)
+
+![](result.gif)
+
+## Features
+- Implemented a cube class and added it to the scene.
+- Added a color control to the GUI.
+- Implemented worley noise function and use it to affect color.
+- Custom vertex and fragment shaders to animate the cube.
+
+
 <p align="center">
   <img width="360" height="360" src="https://user-images.githubusercontent.com/1758825/132532354-e3a45402-e484-499e-bfa7-2d73b9f2c946.png">
 </p>
